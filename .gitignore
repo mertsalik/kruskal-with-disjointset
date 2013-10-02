@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Custom files & directories
+*.sdf
+*.sln
+*.vcxproj
+*.filters
+*.opensdf
+
+Debug

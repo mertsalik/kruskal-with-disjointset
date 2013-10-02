@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="Algorithm">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAAAAAAAAAAAAEAAAgAAAAABAQAAAAAAQACQA=</HashCode>
+      <FileName>Algorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisjointSetItem">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAABAAAAAAAAABAAAAAAAQAAAAAABAAA=</HashCode>
+      <FileName>DisjointSetItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisjointSets">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQAAABAAACAIAAAAAAgAAAQAAAAiAAAQAACAA=</HashCode>
+      <FileName>DisjointSets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Edge">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Edge::comp" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Edge.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAYBAAAAAAgAAAAggA=</HashCode>
+      <FileName>Edge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAABAAIAAEAAIAAAAAAAAABAAAAgAAAAAAAAAIAA=</HashCode>
+      <FileName>Graph.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kruskal">
+    <Position X="1.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAMAAACAg=</HashCode>
+      <FileName>Kruskal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinimumSpanningTreeProblem">
+    <Position X="3.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAEAAACA=</HashCode>
+      <FileName>MinimumSpanningTreeProblem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="10" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQAAEAAgA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Problem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
